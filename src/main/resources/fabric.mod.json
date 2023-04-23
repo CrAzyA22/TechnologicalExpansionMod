@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "techmod",
+  "version": "${version}",
+
+  "name": "Technological Expansion Mod",
+  "description": "This Mod is about tech stuff!",
+  "authors": [
+    "CrAzyA22"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.crazya22.techmod.TechMod"
+    ],
+    "client": [
+      "net.crazya22.techmod.TechModClient"
+    ]
+  },
+  "mixins": [
+    "techmod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.17",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
