@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "techmod:brass_nugget",
+      "item": "techmod:brass_nugget",
+      "item": "techmod:brass_nugget",
+      "item": "techmod:brass_nugget",
+      "item": "techmod:brass_nugget",
+      "item": "techmod:brass_nugget",
+      "item": "techmod:brass_nugget",
+      "item": "techmod:brass_nugget",
+      "item": "techmod:brass_nugget"
+    }
+  ],
+  "result": {
+    "item": "techmod:brass_ingot",
+    "count": 1
+  }
+}

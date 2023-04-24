@@ -1,6 +1,16 @@
 {
   "replace": false,
   "values": [
-    "techmod:steel_block"
+    "techmod:steel_block",
+    "techmod:tin_block",
+    "techmod:lead_block",
+    "techmod:brass_block",
+    "techmod:bronze_block",
+    "techmod:enderium_block",
+    "techmod:electrum_block",
+    "techmod:signalium_block",
+    "techmod:uranium_block",
+    "techmod:silver_block",
+    "techmod:osmium_block"
   ]
 }

@@ -15,6 +15,7 @@ public class TechMod implements ModInitializer {
 	public void onInitialize() {
 
 		ItemGroups.registerItemGroup();
+
 		items.registerModItems();
 		blocks.registerModBlocks();
 
