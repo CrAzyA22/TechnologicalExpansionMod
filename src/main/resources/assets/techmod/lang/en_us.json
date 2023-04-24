@@ -1,4 +1,41 @@
 {
   "item.techmod.steel_ingot": "Steel Ingot",
-  "itemgroup.tech_ingredients": "Tech Mod Ingredients"
+  "item.techmod.lead_ingot": "Lead Ingot",
+  "item.techmod.brass_ingot": "Brass Ingot",
+  "item.techmod.bronze_ingot": "Bronze Ingot",
+  "item.techmod.signalium_ingot": "Signalium Ingot",
+  "item.techmod.electrum_ingot": "Electrum Ingot",
+  "item.techmod.tin_ingot": "Tin Ingot",
+  "item.techmod.uranium_ingot": "Uranium Ingot",
+  "item.techmod.silver_ingot": "Silver Ingot",
+  "item.techmod.osmium_ingot": "Osmium Ingot",
+  "item.techmod.enderium_ingot": "Enderium Ingot",
+
+  "item.techmod.steel_nugget": "Steel Nugget",
+  "item.techmod.lead_nugget": "Lead Nugget",
+  "item.techmod.brass_nugget": "Brass Nugget",
+  "item.techmod.bronze_nugget": "Bronze Nugget",
+  "item.techmod.signalium_nugget": "Signalium Nugget",
+  "item.techmod.electrum_nugget": "Electrum Nugget",
+  "item.techmod.tin_nugget": "Tin Nugget",
+  "item.techmod.uranium_nugget": "Uranium Nugget",
+  "item.techmod.silver_nugget": "Silver Nugget",
+  "item.techmod.osmium_nugget": "Osmium Nugget",
+  "item.techmod.enderium_nugget": "Enderium Nugget",
+
+
+  "block.techmod.lead_block": "Block of Lead",
+  "block.techmod.brass_block": "Block of Brass",
+  "block.techmod.bronze_block": "Block of Bronze",
+  "block.techmod.signalium_block": "Block of Signalium",
+  "block.techmod.electrum_block": "Block of Electrum",
+  "block.techmod.tin_block": "Block of Tin",
+  "block.techmod.uranium_block": "Block of Uranium",
+  "block.techmod.silver_block": "Block of Silver",
+  "block.techmod.osmium_block": "Block of Osmium",
+  "block.techmod.enderium_block": "Block of Enderium",
+  "block.techmod.steel_block": "Block of Steel",
+
+
+  "itemgroup.tech_ingredients": "Tech Mod: Materials"
 }

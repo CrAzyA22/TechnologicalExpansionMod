@@ -1,5 +1,6 @@
 package net.crazya22.techmod;
 
+import net.crazya22.techmod.block.blocks;
 import net.crazya22.techmod.item.ItemGroups;
 import net.crazya22.techmod.item.items;
 import net.fabricmc.api.ModInitializer;
@@ -15,6 +16,7 @@ public class TechMod implements ModInitializer {
 
 		ItemGroups.registerItemGroup();
 		items.registerModItems();
+		blocks.registerModBlocks();
 
 	}
 }
